@@ -4,15 +4,15 @@
 This project leverages machine learning to classify chest X-ray images into three categories: **Normal, Viral Pneumonia, and Bacterial Pneumonia**. The objective is to develop an interpretable deep learning model that can assist radiologists in diagnosing pneumonia more efficiently. The project employs **Convolutional Neural Networks (CNNs)** along with **Grad-CAM** visualization techniques to explain model decisions.
 
 ## Table of Contents
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Training & Performance](#model-training--performance)
-- [Model Explainability](#model-explainability)
-- [Comparison with Expert Radiologists](#comparison-with-expert-radiologists)
-- [Future Improvements](#future-improvements)
-- [Installation & Usage](#installation--usage)
-- [Results](#results)
-- [Key Takeaways](#key-takeaways)
+- Dataset
+- Data Preprocessing
+- Model Training & Performance
+- Model Explainability
+- Comparison with Expert Radiologists
+- Future Improvements
+- Installation & Usage
+- Results
+- Key Takeaways
 
 ## Dataset 📂
 The dataset used for this project consists of **5,856** chest X-ray images divided into three classes:
